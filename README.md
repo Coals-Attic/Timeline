@@ -1,3 +1,5 @@
+This is a fork of Timeline, edited and improved for personal use. The original experience may or may not remain in this fork.
+
 # Timeline
 AS2 & AS3 CPPS Emulator, written in Python.
 Timeline is built heavily on Twisted and is even-driven.
