@@ -2,11 +2,14 @@ This is a fork of Timeline, edited and improved for personal use. The original e
 
 ps. the original was in py2 lmao, everything was deprecated so yeah i was forced to fix it if i wanted to use it
 
-# Timeline
+# Coal-feline
 AS2 & AS3 CPPS Emulator, written in Python.
 Timeline is built heavily on Twisted and is even-driven.
 
-**Timeline docs now live at** https://times-0.github.io/
+**docs now live at** https://times-0.github.io/
+
+<hr>
+<h6>From now on, the following is the original Timeline readme</h6>
 
 # Mandatory account activation
 Timeline v7.5+ makes it mandatory to activate your account. New registered penguin get a trial period of **7 days**, within which the user **must activate** their account using the provided **email**. If not, they won't be able to login after 7 days of register, unless account activated (unlike Disney' policy of deleting your account instead)
